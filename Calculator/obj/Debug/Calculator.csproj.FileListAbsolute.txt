@@ -1,0 +1,13 @@
+E:\Test\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Test\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Test\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Test\Calculator\Calculator\bin\Debug\Guna.UI2.dll
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Test\Calculator\Calculator\obj\Debug\Calculator.pdb
